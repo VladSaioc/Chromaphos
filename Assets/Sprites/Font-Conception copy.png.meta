@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 567fa7feb59eceb428f529ea488b0c74
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Font-Conception copy_0
+    21300002: Font-Conception copy_1
+    21300004: Font-Conception copy_2
+    21300006: Font-Conception copy_3
+    21300008: Font-Conception copy_4
+    21300010: Font-Conception copy_5
+    21300012: Font-Conception copy_6
+    21300014: Font-Conception copy_7
+    21300016: Font-Conception copy_8
+    21300018: Font-Conception copy_9
+    21300020: Font-Conception copy_10
+    21300022: Font-Conception copy_11
+    21300024: Font-Conception copy_12
+    21300026: Font-Conception copy_13
+    21300028: Font-Conception copy_14
+    21300030: Font-Conception copy_15
+    21300032: Font-Conception copy_16
+    21300034: Font-Conception copy_17
+    21300036: Font-Conception copy_18
+    21300038: Font-Conception copy_19
+    21300040: Font-Conception copy_20
+    21300042: Font-Conception copy_21
+    21300044: Font-Conception copy_22
+    21300046: Font-Conception copy_23
+    21300048: Font-Conception copy_24
+    21300050: Font-Conception copy_25
+    21300052: Font-Conception copy_26
+    21300054: Font-Conception copy_27
+    21300056: Font-Conception copy_28
+    21300058: Font-Conception copy_29
+    21300060: Font-Conception copy_30
+    21300062: Font-Conception copy_31
+    21300064: Font-Conception copy_32
+    21300066: Font-Conception copy_33
+    21300068: Font-Conception copy_34
+    21300070: Font-Conception copy_35
+    21300072: Font-Conception copy_36
+    21300074: Font-Conception copy_37
+    21300076: Font-Conception copy_38
+    21300078: Font-Conception copy_39
+    21300080: Font-Conception copy_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Font-Conception copy_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1485
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1481
+        width: 96
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1484
+        width: 97
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1484
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1483
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1471
+        width: 76
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_6
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1481
+        width: 78
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1481
+        width: 98
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_8
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1483
+        width: 97
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_9
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1484
+        width: 12
+        height: 264
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 97
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1202
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1206
+        width: 82
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1203
+        width: 97
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_14
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1200
+        width: 82
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1200
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_16
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1202
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_17
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1197
+        width: 108
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 913
+        width: 97
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 917
+        width: 98
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 915
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 914
+        width: 96
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 914
+        width: 98
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 916
+        width: 98
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_25
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 913
+        width: 97
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 917
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_27
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 917
+        width: 94
+        height: 261
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_28
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 509
+        width: 359
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 55
+        width: 273
+        height: 267
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 53
+        width: 221
+        height: 271
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_23
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 624
+        width: 104
+        height: 277
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_31
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 637
+        width: 100
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_32
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 630
+        width: 100
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 366
+        width: 145
+        height: 251
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_34
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 354
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 628
+        width: 97
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 635
+        width: 97
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 633
+        width: 100
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_38
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 352
+        width: 96
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 357
+        width: 102
+        height: 253
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Font-Conception copy_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 59
+        width: 301
+        height: 255
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

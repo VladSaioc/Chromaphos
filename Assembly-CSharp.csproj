@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{94337C8A-FE5C-3D49-0CD5-DAFCC85214FA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_1;UNITY_5_3;UNITY_5;UNITY_ADS;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>E:/Utils/Unity 5.3.up/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>E:/Utils/Unity 5.3.up/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Dark Energy\DarkEnergyBehavior.cs" />
+     <Compile Include="Assets\Scripts\Dark Energy\DarkEnergyFade.cs" />
+     <Compile Include="Assets\Scripts\Dark Energy\DarkEnergyHorizontalSlide.cs" />
+     <Compile Include="Assets\Scripts\Dark Energy\DarkEnergyStretchHorizontal.cs" />
+     <Compile Include="Assets\Scripts\Dark Energy\DarkEnergyStretchVertical.cs" />
+     <Compile Include="Assets\Scripts\Dark Energy\DarkEnergyVerticalMovement.cs" />
+     <Compile Include="Assets\Scripts\DarkMatterBehavior.cs" />
+     <Compile Include="Assets\Scripts\DarkMatterRotation.cs" />
+     <Compile Include="Assets\Scripts\Electron\ElectronBehaviorScript.cs" />
+     <Compile Include="Assets\Scripts\Electron\ElectronColorCycle.cs" />
+     <Compile Include="Assets\Scripts\GameSettingsScript.cs" />
+     <Compile Include="Assets\Scripts\Gravity Behavior\GravityBehavior.cs" />
+     <Compile Include="Assets\Scripts\ParticleMove.cs" />
+     <Compile Include="Assets\Scripts\Photon\PhotonDeath.cs" />
+     <Compile Include="Assets\Scripts\Photon\PhotonMovement.cs" />
+     <Compile Include="Assets\Scripts\PositionReset.cs" />
+     <Compile Include="Assets\Scripts\ShieldRotation.cs" />
+     <Compile Include="Assets\Scripts\ShieldSystem.cs" />
+     <Compile Include="Assets\Scripts\Transform\ColorChange.cs" />
+     <Compile Include="Assets\Scripts\Transform\CreateObstacles.cs" />
+     <Compile Include="Assets\Scripts\Transform\FieldFade.cs" />
+     <Compile Include="Assets\Scripts\Transform\HorizontalPendulum.cs" />
+     <Compile Include="Assets\Scripts\Transform\InGameAds.cs" />
+     <Compile Include="Assets\Scripts\Transform\InterstitialAds.cs" />
+     <Compile Include="Assets\Scripts\Transform\ObstacleColorHint.cs" />
+     <Compile Include="Assets\Scripts\Transform\ObstacleDestruction.cs" />
+     <Compile Include="Assets\Scripts\Transform\RandomObstacleGeneration.cs" />
+     <Compile Include="Assets\Scripts\Transform\StaticPosition.cs" />
+     <Compile Include="Assets\Scripts\Transform\VerticalPendulum.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\BackgroundMovement.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\ClearDataHighlight.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\ColorCycleScript.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\Controls.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\EnergyBarBehavior.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\FrequencyBleach.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\FrequencySelector.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\FrequencySwipe.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\GoBackToMainMenu.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\HideSecret.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\HighlightBehavior.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\LevelArrowAnimation.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\LevelArrowBehavior.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\LevelFinishTransition.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\MenuCameraMovement.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\MenuColorChange.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\MenuSlideAnimation.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\MenuWaveColor.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\OptionsMenuSelect.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\PauseButtonBehavior.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\PlayButtonScript.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\PlayColorSound.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\PlayLevel.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\QuitGame.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\RenderLevelSelector.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\ReturnToMainMenu.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\ReturnToPlayLevel.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\SetDefaultSettings.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\SineWaveSoundBehavior.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\SizeChange.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\SpeedSelection.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\SpeedSelectorColorChange.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\TitleSizeChange.cs" />
+     <Compile Include="Assets\Scripts\UI Stuff\UIGameMovement.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>E:/Utils/Unity 5.3.up/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>E:/Utils/Unity 5.3.up/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>E:/Utils/Unity 5.3.up/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>E:/Utils/Unity 5.3.up/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

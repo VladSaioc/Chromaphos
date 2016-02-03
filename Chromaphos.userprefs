@@ -1,0 +1,68 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Photon\PhotonMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Transform\ColorChange.cs" Line="1" Column="1" />
+      <File FileName="Chromaphos.sln" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\HideSecret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dark Energy\DarkEnergyBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Photon\PhotonMovement.cs" Line="11" Column="27" />
+      <File FileName="Assets\Scripts\UI Stuff\PlayLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Electron\ElectronBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\RenderLevelSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Electron\ElectronColorCycle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\EnergyBarBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\LevelArrowAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\HighlightBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dark Energy\DarkEnergyFade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\SpeedSelectorColorChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\SpeedSelection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\OptionsMenuSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\TitleSizeChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\ColorCycleScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\MenuColorChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSettingsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ParticleMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DarkMatterBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DarkMatterRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShieldRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShieldSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PositionReset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\FrequencyBleach.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Transform\HorizontalPendulum.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dark Energy\DarkEnergyStretchHorizontal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dark Energy\DarkEnergyStretchVertical.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dark Energy\DarkEnergyVerticalMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\MenuCameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\GoBackToMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\QuitGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\UIGameMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\PlayButtonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\FrequencySelector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\PauseButtonBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Photon\PhotonDeath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\LevelArrowBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\ClearDataHighlight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\SetDefaultSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\ReturnToMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Transform\VerticalPendulum.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\MenuWaveColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\ReturnToPlayLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\BackgroundMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\SineWaveSoundBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\MenuSlideAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Gravity Behavior\GravityBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Transform\CreateObstacles.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dark Energy\DarkEnergyHorizontalSlide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\LevelFinishTransition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\Controls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Transform\StaticPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\FrequencySwipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI Stuff\SizeChange.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: f641929292fbbb8479d2bf7bf78d8a63
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dark Energy_0
+    21300002: Dark Energy_1
+    21300004: Dark Energy_2
+    21300006: Dark Energy_3
+    21300008: Dark Energy_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dark Energy_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1150
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dark Energy_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1150
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dark Energy_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 162
+        width: 768
+        height: 412
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dark Energy_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 619
+        width: 768
+        height: 412
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dark Energy_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1098
+        width: 54
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

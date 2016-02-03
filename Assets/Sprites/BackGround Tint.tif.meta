@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 923c84dbd8a76d34d87c0e9376e8809a
+timeCreated: 1454050556
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BackGround Tint_0
+    21300002: BackGround Tint_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BackGround Tint_0
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 39
+        width: 569
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.0452, y: 221.72157}
+        - {x: -144.9548, y: 221.72157}
+        - {x: -144.9548, y: -221.27843}
+        - {x: 120.0452, y: -221.27843}
+        - {x: 120.0452, y: -217.27843}
+        - {x: 140.0452, y: -217.27843}
+        - {x: 142.0452, y: -215.27843}
+    - name: BackGround Tint_1
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 400
+        width: 387
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145.55835, y: -31.291534}
+        - {x: 144.55835, y: -30.291534}
+        - {x: 113.55835, y: -27.291534}
+        - {x: 11.55835, y: 39.708466}
+        - {x: -105.44165, y: 39.708466}
+        - {x: -145.44165, y: -26.291534}
+        - {x: -145.44165, y: -38.291534}
+        - {x: -72.44165, y: -38.291534}
+        - {x: -55.44165, y: -28.291534}
+        - {x: -35.44165, y: -23.291534}
+        - {x: -42.44165, y: -23.291534}
+        - {x: -44.44165, y: -35.291534}
+        - {x: -44.44165, y: -38.291534}
+        - {x: 41.55835, y: -38.291534}
+        - {x: 42.55835, y: -36.291534}
+        - {x: 52.55835, y: -38.291534}
+        - {x: 145.55835, y: -38.291534}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
