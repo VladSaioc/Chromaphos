@@ -29,13 +29,13 @@ public class FrequencySwipe : MonoBehaviour {
 				{					
 					float swipeValue = Mathf.Sign(touch.position.y - startPos.y);
 						int index = GameObject.Find ("Photon").GetComponent<PhotonMovement>().newCoefIndex;
-					if (swipeValue > 0 &&  index < 6) {
+					if (swipeValue > 0 &&  index <= 6 - Input.touchCount ) {
 						GameObject.Find ("Photon").GetComponent<PhotonMovement> ().RegisterChange (
-							index + 1);
+							index + Input.touchCount);
 					}
-					else if (swipeValue < 0 && index > 1) {
+					else if (swipeValue < 0 && index >= 1 + Input.touchCount) {
 						GameObject.Find ("Photon").GetComponent<PhotonMovement> ().RegisterChange (
-							index - 1);
+							index - Input.touchCount);
 					}
 				}
 					started = false;

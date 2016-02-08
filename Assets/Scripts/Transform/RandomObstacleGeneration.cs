@@ -60,8 +60,8 @@ public class RandomObstacleGeneration : MonoBehaviour {
     float RandomSpacing(int coef)
     {
         float fooMin, fooMax;
-        fooMin = spacingMin + 0.1f * coef;
-        fooMax = spacingMax + 0.1f * coef;
+        fooMin = spacingMin + 0.15f * coef;
+        fooMax = spacingMax + 0.15f * coef;
         return Random.Range(fooMin, fooMax);
     }
 

@@ -3,22 +3,18 @@ using System.Collections;
 
 public class Controls : MonoBehaviour {
 
-	public KeyCode[] speeds;
-
 	// Use this for initialization
 	void Start () {
 	}
 
 	void Action()
 	{
-		for(int i = 1; i < 8; i++){
-			if(Input.GetKey(speeds[i]) && GetComponent<PhotonDeath>().alive == true)
-			{
-
-				GetComponent<PhotonMovement>().RegisterChange(i);
-			}
-		}
-	}
+        int coefIndex = GetComponent<PhotonMovement>().coefIndex;
+        if((Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.DownArrow)) && coefIndex > 1) 
+				GetComponent<PhotonMovement>().RegisterChange(coefIndex - 1);
+        if ((Input.GetMouseButtonDown(1) || Input.GetKeyDown(KeyCode.UpArrow)) && coefIndex < 6)
+            GetComponent<PhotonMovement>().RegisterChange(coefIndex + 1);
+    }
 
 	// Update is called once per frame
 	void Update () {

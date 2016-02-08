@@ -15,7 +15,7 @@ public class InGameAds : MonoBehaviour {
     void Start()
     {
         int number = PlayerPrefs.GetInt("AdCounter");
-        if (number >= 4)
+        if (number >= 5)
         {
             ShowAd();
             number = 1;

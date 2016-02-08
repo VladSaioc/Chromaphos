@@ -14,6 +14,16 @@ public class InterstitialAds : MonoBehaviour
 
     void Start()
     {
-        ShowAd();
+        int number = PlayerPrefs.GetInt("MenuAdCounter");
+        if (number >= 3)
+        {
+            ShowAd();
+            number = 1;
+        }
+        else
+        {
+            number++;
+        }
+        PlayerPrefs.SetInt("MenuAdCounter", number);
     }
 }

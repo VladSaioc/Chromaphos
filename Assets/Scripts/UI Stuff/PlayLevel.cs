@@ -48,9 +48,5 @@ public class PlayLevel : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		CheckTouch ();
-		if (highlighted)
-			duration += Time.deltaTime;
-		else
-			duration = 0;
 	}
 }
